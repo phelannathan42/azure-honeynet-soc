@@ -1,6 +1,6 @@
 
 # Azure Honeynet: Realistic Cyber Attack Emulation with SOC Integration
-#![Cloud Honeynet / SOC](https://i.imgur.com/4qcVKgw.png)
+
 
 ## Overview
 
