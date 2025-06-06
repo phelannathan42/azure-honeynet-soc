@@ -79,18 +79,18 @@ These updates significantly reduced the attack surface and enhanced overall secu
 ## Security Metrics Comparison
 
 ### Before Hardening
-**Timeframe**: May 2, 2023 – May 3, 2023
+**Timeframe**: Sept 2, 2024 – Sept 3, 2024
 
 | Metric                            | Count  |
 |-----------------------------------|--------|
-| Windows VM Security Events        | 21,182 |
+| Windows VM Security Events        | 23,984 |
 | Linux VM Syslog Entries           | 4,877  |
 | Microsoft Defender Alerts         | 0      |
 | Sentinel Incidents                | 343    |
 | Malicious Inbound NSG Traffic     | 969    |
 
 ### After Hardening
-**Timeframe**: March 18, 2023 – March 19, 2023
+**Timeframe**: Oct 18, 2023 – Oct 19, 2023
 
 | Metric                            | Count  |
 |-----------------------------------|--------|
