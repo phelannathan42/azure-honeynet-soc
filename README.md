@@ -90,7 +90,7 @@ These updates significantly reduced the attack surface and enhanced overall secu
 | Malicious Inbound NSG Traffic     | 969    |
 
 ### After Hardening
-**Timeframe**: Oct 18, 2023 – Oct 19, 2023
+**Timeframe**: Oct 18, 2024 – Oct 19, 2024
 
 | Metric                            | Count  |
 |-----------------------------------|--------|
